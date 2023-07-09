@@ -1,0 +1,29 @@
+    .text-center{
+        text-align: center;
+    }
+    .bg-red{
+   
+    }
+    .mx-auto{
+        margin: auto;
+    }
+   .flex{
+    display: flex;
+    flex-direction: column;
+   }
+   .flex-col{
+    justify-content: center;
+    align-items: center;
+   }
+   .item-center{
+
+   }
+   .row input{
+    margin: 1px;
+    padding: 8px;
+    border: 2px solid black;
+    color: black;
+    border-radius: 8px;
+    width: 75%;
+}
+   

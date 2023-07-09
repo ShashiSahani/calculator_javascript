@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Sofiahn 
+);    
+html,body{
+        height: 100%;
+        width: 100%;
+}
+.button{
+    padding: 20px;
+    margin: 0;
+    border:2px solid black;
+    border-radius: 8px;
+}
+.row{
+    margin: 8px 0;
+}
